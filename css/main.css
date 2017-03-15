@@ -26,7 +26,7 @@ body {
 
 @media (max-width: 600px) {
     .title-super {
-        font-size: 30px;
+        font-size: 40px;
     }
 
     svg {
@@ -39,7 +39,6 @@ body {
 hr {
     background: #7d97ad;
     border: 0 none;
-    color: #7d97ad;
     height: 3px;
 }
 
