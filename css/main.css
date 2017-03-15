@@ -2,8 +2,6 @@ body {
     font-family: 'Lato', sans-serif;
     color: #2d3c49;
     font-weight: 300;
-    width: 80%;
-    margin: auto;
 }
 
 .text-muted {
@@ -38,9 +36,8 @@ body {
 }
 
 
-hr
-{
-    background-color: #7d97ad;
+hr {
+    background: #7d97ad;
     border: 0 none;
     color: #7d97ad;
     height: 3px;
